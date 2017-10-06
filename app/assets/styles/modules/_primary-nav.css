@@ -52,6 +52,10 @@ a {
     padding:12px;
     background-color:transparent;
 
+    &.is-current-link{
+      color: #fabb69;
+    }
+
   }
 }
 
